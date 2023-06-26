@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactivitip_admin=self.webpackChunkactivitip_admin||[]).push([[532],{850:()=>{}},i=>{var a;a=850,i(i.s=a)}]);
